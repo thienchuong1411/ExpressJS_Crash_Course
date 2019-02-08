@@ -1,0 +1,27 @@
+{
+  "name": "traversymedia_expressjs_crash_course",
+  "version": "1.0.0",
+  "description": "ExpressJS Crash Course of Traversy Media",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-validator": "^5.3.1",
+    "mongojs": "^2.6.0",
+    "nodemon": "^1.18.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thienchuong1411/ExpressJS_Crash_Course.git"
+  },
+  "author": "Brad Traversy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thienchuong1411/ExpressJS_Crash_Course/issues"
+  },
+  "homepage": "https://github.com/thienchuong1411/ExpressJS_Crash_Course#readme"
+}
